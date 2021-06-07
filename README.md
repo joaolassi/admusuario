@@ -1,3 +1,3 @@
 # admusuario
-Projeto feito em sala
+Projeto feito em sala.
 Java web com JSP.
