@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class Conexao {
 	
-	private String usuario = "root";
-	private String senha = "root";
+	private String usuario = "seuusuario";
+	private String senha = "suasenha";
 	private String servidor = "localhost";
 	private String porta = "3306";
 	private String banco = "admusuario";
